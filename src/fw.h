@@ -1,0 +1,1 @@
+int fw(int k, int j,int nrid, int *dests);
